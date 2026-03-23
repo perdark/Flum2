@@ -1,1 +1,6 @@
-# Fri, Mar 13, 2026  3:28:24 AM
+# Skip ecom when deploying dashboard
+ecom
+ecom/**
+*.log
+.env.local
+.DS_Store
