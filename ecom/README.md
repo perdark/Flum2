@@ -8,7 +8,7 @@ A modern, production-grade digital products e-commerce storefront built with Nex
 - **Multi-Language Support**: Arabic (RTL) and English (LTR)
 - **Multi-Currency**: Support for multiple currencies with easy switching
 - **Product Discovery**: Trending, recommended, and related products sections
-- **Advanced Search**: Instant search with live results and suggestions
+- **Advanced Search**: Instant search with live results and suggestionss
 - **Full Cart System**: Guest cart support, mini cart drawer, and persistent storage
 - **Checkout**: Unified checkout with multiple payment options (Stripe, Manual)
 - **User Profiles**: Order tracking, wishlist, and points system
